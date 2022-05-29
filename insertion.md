@@ -25,3 +25,7 @@ Average Case= O(n²)
 Worst Case= O(n²)
 
 4.soru
+
+Average case
+
+5.soru
