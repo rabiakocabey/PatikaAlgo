@@ -20,9 +20,9 @@ O(n²)
 
 3.soru
 
-Best Case= O(n)
-Average Case= O(n²)
-Worst Case= O(n²)
+Best Case Ω = O(n)
+Average Case Θ = O(n²)
+Worst Case O = O(n²)
 
 4.soru
 
